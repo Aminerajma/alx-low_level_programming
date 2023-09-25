@@ -5,7 +5,8 @@
 /**
  *main - Entry point
  *
- *Description: n statement, n greater than 5 or zero or less than 6 but not zero
+ *Description: n statement, n greater than 5 or zero
+ *	or less than 6 but not zero
  *
  *Return: 0 (Success)
 */
