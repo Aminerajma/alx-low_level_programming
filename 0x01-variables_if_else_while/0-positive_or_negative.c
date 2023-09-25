@@ -3,11 +3,11 @@
 #include <time.h>
 
 /**
- * main - Entry point
+ *main - Entry point
  *
- * Description: n statement, n negative or positive or zero
- * 
- * Return: 0 (Success)
+ *Description: n statement, n negative or positive or zero
+ *
+ *Return: 0 (Success)
 */
 
 int main(void)
@@ -20,7 +20,7 @@ if (n > 0)
 	printf("%i is positive\n", n);
 else if (n == 0)
 	printf("%i is zero\n", n);
-else 
+else
 	printf("%i is negative\n", n);
 return (0);
 }
